@@ -1,0 +1,25 @@
+.footer{
+    top: 100%;
+    position:sticky;
+    overflow: hidden;
+    background-color:darkslategray;
+    padding: 20px 10px;
+}
+h1{
+    color: aliceblue;
+    font-size: 20px;
+}
+a
+{
+    color:coral;
+    text-decoration:none;
+    font-size: 17px;
+    padding: 0px 5px;
+
+}
+a:hover{
+    color:blue;
+    text-decoration:none;
+
+    padding: 0px 5px;
+}

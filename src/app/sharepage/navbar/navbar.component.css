@@ -1,6 +1,42 @@
-
-
-.navbar-light   .navbar-nav .nav-link.active-link{
-    color:violet;
-    font-weight: bold;
+* {
+margin: 10;
+padding: 100;
 }
+
+.navbar-light .navbar-nav .nav-link.active-link
+{
+    color:cadetblue;
+    text-decoration: underline;
+   
+}
+.navbar-light .navbar-nav .nav-link
+{
+    color:var(--secondary-color);
+    
+}
+
+
+  
+
+.vertical-menu {
+    margin-bottom: 300px;
+  padding:40px 10px;
+    width: 250px;
+   padding-bottom:100px;
+}
+
+.vertical-menu a {
+    background-color:  lightblue;
+    color: black;
+    display: block;
+    padding: 20px;
+    text-decoration: none;
+}
+
+.vertical-menu a:hover {
+    background-color:cadetblue;
+    color: white;
+}
+
+
+
